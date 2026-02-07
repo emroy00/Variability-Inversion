@@ -6,5 +6,6 @@ Measurement_data/hf*
 Measurement_data/CHC_check.ipynb
 Measurement_data/ATARS_preprocess.ipynb
 Measurement_data/aeris-catalogue-prod
-Inversion/posteriors/*
-Inversion/figures/*
+Inversion/posteriors/*.csv
+Inversion/figures/*.pdf
+Inversion/figures/*.png
