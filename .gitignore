@@ -1,0 +1,10 @@
+Model_data/CHC/*
+Model_data/ATARS/*
+Model_data/HarvardForest/*
+Measurement_data/L1_TGM*
+Measurement_data/hf*
+Measurement_data/CHC_check.ipynb
+Measurement_data/ATARS_preprocess.ipynb
+Measurement_data/aeris-catalogue-prod
+Inversion/posteriors/*
+Inversion/figures/*

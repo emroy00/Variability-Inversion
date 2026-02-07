@@ -1,0 +1,52 @@
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/xarray/core/indexes.py:234: FutureWarning: Passing method to Float64Index.get_loc is deprecated and will raise in a future version. Use index.get_indexer([item], method=...) instead.
+  indexer = self.index.get_loc(
+GEOS-Chem (2x2.5) Prior is 9.894 ug m$^{-2}$
+GEOS-Chem (0.5x0.625) Prior is 12.556 ug m$^{-2}$
+Observed deposition is 21.943 ug m$^{-2}$
+Litterfall deposition (Obrist et al. 2021) is 8.1 ug m$^{-2}$
