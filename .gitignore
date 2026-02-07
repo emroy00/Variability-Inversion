@@ -9,3 +9,5 @@ Measurement_data/aeris-catalogue-prod
 Inversion/posteriors/*.csv
 Inversion/figures/*.pdf
 Inversion/figures/*.png
+Inversion/code/Model_formatting.ipynb
+Inversion/code/AvgSensitivities.ipynb

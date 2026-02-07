@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/net/fs03/d0/emroy/paper_staging/VariabilityInversion/Inversion/code/GunnPoint.py", line 224, in <module>
-    standard95_SF,random95_SF = f.bootstrap_4_statistic(df_bb_nonan[obs_name],df_bb_nonan_r[obs_name],std,statistic=stat)
-  File "/net/fs03/d0/emroy/paper_staging/VariabilityInversion/Inversion/code/function.py", line 266, in bootstrap_4_statistic
-    r = scipy.stats.norm.rvs(loc=obs_detrend, scale=stdev, size=len(obs_detrend))
-  File "/home/emroy/.conda/envs/geos_22/lib/python3.10/site-packages/scipy/stats/_distn_infrastructure.py", line 1057, in rvs
-    raise ValueError(message)
-ValueError: Domain error in arguments. The `scale` parameter must be positive for all distributions, and many distributions have restrictions on shape parameters. Please see the `scipy.stats.norm` documentation for details.
